@@ -1,0 +1,13 @@
+.header-inner{
+    background-color: black;
+    width: auto;
+    height: 80px;
+    
+}
+
+.header-logo{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin: 50% 30%;
+}
