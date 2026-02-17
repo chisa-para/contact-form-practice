@@ -1,13 +1,19 @@
-.header-inner{
+.header{
     background-color: black;
-    width: auto;
+}
+
+.header-inner{
+    max-width: 1230px;
     height: 80px;
     
 }
 
 .header-logo{
+    display: inline-block;
     text-decoration: none;
     color: white;
     font-size: 30px;
-    margin: 50% 30%;
+    font-weight: bold;
+    margin: 15px 100px;
 }
+
